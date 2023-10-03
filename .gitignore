@@ -1,0 +1,6 @@
+# ignore node_modules directory anywhere in the
+node_modules
+
+# misc
+.DS_Store
+##.env
