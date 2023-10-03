@@ -3,7 +3,7 @@ const fs = require('fs');
 
 const url = 'https://www.example.com'
 const logFilePath = '../kitty-logger.txt'
-const maxCalls = 100
+const maxCalls = 3
 let callsMade = 1
 
 async function makeCall() {
